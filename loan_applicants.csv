@@ -1,0 +1,1001 @@
+age,income,employment_status,loan_amount,loan_purpose,years_to_return,loan_approval_status
+45,41565,Self-Employed,200000,Home,2,Not Approved
+49,48541,Self-Employed,100000,Personal,1,Not Approved
+57,50746,Employed,100000,Car,1,Approved
+42,40411,Employed,450000,Car,4.5,Approved
+44,20523,Self-Employed,250000,Car,2.5,Not Approved
+32,21422,Self-Employed,250000,Personal,2.5,Not Approved
+29,56033,Self-Employed,350000,Home,3.5,Not Approved
+25,32708,Self-Employed,150000,Car,1.5,Approved
+38,21767,Self-Employed,100000,Car,1,Approved
+45,25348,Unemployed,75000,Home,0.8,Approved
+31,51456,Self-Employed,450000,Personal,4.5,Approved
+40,46192,Employed,100000,Home,1,Not Approved
+55,59394,Unemployed,500000,other,5,Not Approved
+58,54684,Employed,200000,Car,2,Approved
+46,28449,Unemployed,400000,Personal,4,Approved
+43,53581,Self-Employed,150000,Personal,1.5,Approved
+47,39245,Unemployed,100000,other,1,Not Approved
+29,47717,Self-Employed,50000,Home,0.6,Not Approved
+46,46097,Unemployed,150000,Home,1.5,Not Approved
+43,26522,Self-Employed,400000,Home,4,Not Approved
+55,55468,Unemployed,500000,Personal,5,Not Approved
+31,53604,Unemployed,75000,Personal,0.8,Not Approved
+26,33025,Unemployed,125000,Car,1.2,Approved
+34,25564,Employed,400000,Home,4,Not Approved
+32,51516,Unemployed,450000,other,4.5,Approved
+36,42030,Employed,400000,Car,4,Approved
+42,28132,Employed,100000,Car,1,Approved
+36,53459,Self-Employed,450000,Personal,4.5,Approved
+48,35887,Self-Employed,50000,Car,0.6,Not Approved
+55,49271,Employed,125000,Car,1.2,Not Approved
+41,33551,Self-Employed,450000,Home,4.5,Not Approved
+32,58206,Employed,50000,other,0.6,Not Approved
+52,40267,Employed,125000,Car,1.2,Approved
+57,54860,Employed,400000,Home,4,Approved
+41,23952,Employed,400000,other,4,Not Approved
+25,56324,Employed,300000,Home,3,Not Approved
+52,43145,Self-Employed,350000,Home,3.5,Approved
+59,54128,Self-Employed,250000,Personal,2.5,Approved
+29,59432,Self-Employed,100000,other,1,Approved
+33,35667,Unemployed,75000,Car,0.8,Not Approved
+51,29344,Unemployed,500000,Car,5,Approved
+28,31126,Unemployed,200000,Personal,2,Approved
+33,22020,Unemployed,450000,other,4.5,Not Approved
+21,43141,Self-Employed,125000,Personal,1.2,Not Approved
+49,34803,Self-Employed,350000,Home,3.5,Approved
+28,24763,Unemployed,450000,Personal,4.5,Approved
+34,53660,Employed,350000,Home,3.5,Approved
+22,42371,Unemployed,75000,other,0.8,Not Approved
+26,39457,Employed,500000,Home,5,Approved
+53,26073,Unemployed,450000,Home,4.5,Not Approved
+31,57142,Self-Employed,300000,Personal,3,Not Approved
+53,25320,Unemployed,250000,Personal,2.5,Approved
+43,36285,Employed,100000,Personal,1,Not Approved
+29,49325,Self-Employed,50000,Car,0.6,Approved
+26,41211,Unemployed,75000,Personal,0.8,Not Approved
+35,58899,Self-Employed,450000,Home,4.5,Not Approved
+55,24868,Employed,350000,Home,3.5,Not Approved
+35,53949,Unemployed,50000,Car,0.6,Approved
+38,34061,Unemployed,400000,Car,4,Approved
+31,52704,Unemployed,500000,Car,5,Not Approved
+40,28638,Unemployed,450000,other,4.5,Approved
+51,37590,Unemployed,250000,Personal,2.5,Not Approved
+37,43621,Self-Employed,350000,Personal,3.5,Approved
+49,28870,Unemployed,300000,Personal,3,Approved
+37,58567,Employed,350000,Car,3.5,Not Approved
+27,51812,Employed,200000,Personal,2,Approved
+44,45156,Self-Employed,100000,Car,1,Approved
+41,55675,Unemployed,300000,Home,3,Approved
+41,34824,Unemployed,300000,Home,3,Not Approved
+56,44448,Self-Employed,50000,other,0.6,Approved
+25,22690,Self-Employed,500000,other,5,Not Approved
+53,30915,Employed,50000,Car,0.6,Approved
+54,42272,Unemployed,75000,Home,0.8,Approved
+33,33946,Unemployed,50000,Car,0.6,Not Approved
+30,53265,Self-Employed,350000,other,3.5,Not Approved
+27,50251,Employed,100000,Home,1,Approved
+26,32955,Self-Employed,75000,other,0.8,Approved
+52,29671,Unemployed,200000,Home,2,Approved
+47,56747,Self-Employed,250000,Personal,2.5,Approved
+37,58932,Employed,75000,Home,0.8,Not Approved
+41,27561,Self-Employed,250000,Personal,2.5,Approved
+52,25542,Employed,100000,other,1,Not Approved
+43,52681,Self-Employed,75000,Car,0.8,Approved
+41,37206,Employed,450000,Home,4.5,Not Approved
+24,35133,Employed,75000,Car,0.8,Not Approved
+45,23214,Employed,450000,Personal,4.5,Approved
+59,26652,Employed,125000,other,1.2,Not Approved
+25,20601,Employed,200000,Car,2,Not Approved
+24,46142,Unemployed,350000,Personal,3.5,Approved
+47,37002,Unemployed,350000,other,3.5,Not Approved
+54,40179,Self-Employed,200000,Car,2,Not Approved
+46,49824,Self-Employed,125000,Car,1.2,Approved
+40,45207,Self-Employed,50000,Home,0.6,Not Approved
+50,47624,Self-Employed,200000,other,2,Approved
+32,51510,Self-Employed,125000,Personal,1.2,Approved
+35,53613,Self-Employed,500000,other,5,Not Approved
+39,52198,Self-Employed,250000,other,2.5,Not Approved
+31,40117,Self-Employed,150000,Home,1.5,Approved
+38,34016,Employed,100000,Personal,1,Not Approved
+25,54725,Self-Employed,450000,Home,4.5,Approved
+21,59713,Self-Employed,200000,Home,2,Not Approved
+45,40293,Employed,150000,Car,1.5,Approved
+49,27596,Self-Employed,300000,Home,3,Approved
+22,51730,Self-Employed,75000,other,0.8,Approved
+46,33424,Unemployed,125000,Home,1.2,Not Approved
+58,44756,Employed,75000,Home,0.8,Not Approved
+32,59921,Unemployed,250000,Personal,2.5,Not Approved
+29,52546,Self-Employed,100000,Home,1,Not Approved
+31,27452,Self-Employed,450000,Car,4.5,Not Approved
+50,21755,Self-Employed,500000,Personal,5,Not Approved
+49,28443,Unemployed,200000,other,2,Approved
+56,42058,Unemployed,125000,Car,1.2,Not Approved
+23,47200,Employed,300000,Home,3,Approved
+49,45724,Employed,250000,Personal,2.5,Not Approved
+20,30041,Unemployed,400000,Car,4,Not Approved
+35,57849,Unemployed,400000,Car,4,Not Approved
+50,47729,Self-Employed,150000,other,1.5,Not Approved
+57,50699,Self-Employed,250000,other,2.5,Approved
+57,52536,Self-Employed,450000,other,4.5,Not Approved
+58,57051,Self-Employed,50000,Car,0.6,Not Approved
+20,47681,Unemployed,250000,Home,2.5,Approved
+25,27542,Employed,50000,Home,0.6,Not Approved
+27,51749,Employed,350000,Personal,3.5,Not Approved
+24,22341,Self-Employed,125000,Car,1.2,Approved
+52,39871,Employed,125000,Personal,1.2,Not Approved
+23,27236,Employed,125000,Car,1.2,Approved
+49,24415,Employed,500000,Car,5,Not Approved
+30,46903,Unemployed,100000,Car,1,Not Approved
+51,54828,Self-Employed,400000,Personal,4,Approved
+24,48950,Self-Employed,150000,other,1.5,Approved
+43,39285,Employed,350000,other,3.5,Not Approved
+52,59444,Self-Employed,125000,Home,1.2,Not Approved
+30,22243,Self-Employed,400000,Personal,4,Approved
+54,48972,Self-Employed,125000,Car,1.2,Not Approved
+26,58585,Self-Employed,450000,Home,4.5,Approved
+31,47113,Employed,50000,Personal,0.6,Not Approved
+39,53480,Employed,75000,Home,0.8,Not Approved
+24,56371,Unemployed,150000,Car,1.5,Not Approved
+39,43216,Employed,350000,Home,3.5,Approved
+54,29814,Employed,400000,Personal,4,Not Approved
+22,39564,Self-Employed,50000,other,0.6,Not Approved
+48,23284,Unemployed,350000,Personal,3.5,Not Approved
+44,36567,Unemployed,250000,Car,2.5,Not Approved
+45,43066,Self-Employed,300000,Personal,3,Not Approved
+37,35829,Employed,450000,other,4.5,Not Approved
+48,58591,Employed,125000,Home,1.2,Not Approved
+58,28319,Self-Employed,250000,other,2.5,Approved
+54,57309,Employed,450000,Car,4.5,Not Approved
+54,28299,Self-Employed,125000,Personal,1.2,Approved
+44,34005,Self-Employed,500000,Car,5,Approved
+51,23988,Unemployed,200000,Car,2,Approved
+32,33170,Self-Employed,150000,Car,1.5,Approved
+28,39534,Employed,150000,other,1.5,Not Approved
+54,52261,Self-Employed,75000,Home,0.8,Approved
+42,26895,Employed,50000,Home,0.6,Approved
+31,46079,Unemployed,100000,Car,1,Not Approved
+55,27158,Employed,200000,Car,2,Approved
+43,38457,Self-Employed,500000,Home,5,Not Approved
+40,53827,Self-Employed,50000,other,0.6,Not Approved
+54,20634,Self-Employed,150000,Car,1.5,Not Approved
+44,22107,Employed,350000,Car,3.5,Not Approved
+37,22965,Self-Employed,400000,Home,4,Not Approved
+54,45275,Unemployed,100000,other,1,Approved
+25,49601,Employed,350000,other,3.5,Not Approved
+23,51438,Employed,100000,Car,1,Approved
+55,47624,Employed,400000,Home,4,Approved
+52,39027,Self-Employed,400000,Personal,4,Approved
+52,27303,Unemployed,350000,Home,3.5,Not Approved
+28,45179,Unemployed,125000,Car,1.2,Not Approved
+26,40580,Employed,75000,Car,0.8,Not Approved
+24,54535,Self-Employed,350000,Home,3.5,Approved
+38,29821,Employed,350000,Home,3.5,Not Approved
+36,26697,Self-Employed,450000,Home,4.5,Approved
+48,25486,Employed,50000,Car,0.6,Approved
+25,28136,Self-Employed,125000,other,1.2,Not Approved
+58,38263,Employed,125000,other,1.2,Not Approved
+59,47296,Self-Employed,75000,Car,0.8,Not Approved
+38,26122,Employed,200000,Home,2,Not Approved
+41,38193,Unemployed,50000,Home,0.6,Not Approved
+45,41382,Employed,350000,Personal,3.5,Not Approved
+53,41417,Unemployed,100000,Home,1,Not Approved
+46,25259,Employed,125000,Car,1.2,Approved
+22,42448,Employed,450000,other,4.5,Approved
+40,20595,Employed,250000,other,2.5,Approved
+27,49953,Self-Employed,350000,Personal,3.5,Not Approved
+48,53457,Employed,200000,other,2,Approved
+28,42505,Employed,250000,Car,2.5,Not Approved
+34,28194,Self-Employed,450000,Car,4.5,Not Approved
+21,42554,Self-Employed,250000,Home,2.5,Approved
+49,48024,Unemployed,75000,Car,0.8,Approved
+32,32700,Unemployed,100000,Car,1,Not Approved
+35,31124,Self-Employed,450000,other,4.5,Not Approved
+34,40997,Unemployed,150000,Personal,1.5,Not Approved
+53,38465,Unemployed,200000,Car,2,Approved
+28,55634,Self-Employed,125000,other,1.2,Approved
+41,56845,Self-Employed,450000,Personal,4.5,Not Approved
+39,27518,Unemployed,125000,Car,1.2,Not Approved
+41,51971,Unemployed,150000,Personal,1.5,Approved
+35,20933,Unemployed,75000,Home,0.8,Approved
+57,24688,Self-Employed,150000,Personal,1.5,Not Approved
+22,38042,Unemployed,400000,Home,4,Approved
+45,42075,Employed,100000,other,1,Approved
+44,41222,Employed,400000,Personal,4,Not Approved
+31,49655,Unemployed,200000,other,2,Not Approved
+38,52537,Employed,150000,Personal,1.5,Approved
+20,44271,Unemployed,300000,Home,3,Approved
+27,39883,Employed,300000,Home,3,Not Approved
+41,48485,Self-Employed,250000,Personal,2.5,Approved
+54,53667,Employed,100000,other,1,Not Approved
+58,46022,Unemployed,75000,Personal,0.8,Not Approved
+55,32720,Self-Employed,400000,other,4,Not Approved
+33,35848,Self-Employed,200000,Personal,2,Not Approved
+20,59519,Self-Employed,450000,Personal,4.5,Approved
+20,56860,Unemployed,500000,Home,5,Approved
+50,43306,Employed,75000,other,0.8,Approved
+49,55945,Self-Employed,400000,other,4,Not Approved
+22,37292,Employed,200000,Car,2,Not Approved
+28,40150,Unemployed,500000,Personal,5,Approved
+28,20092,Self-Employed,50000,Personal,0.6,Approved
+28,54662,Unemployed,200000,Car,2,Not Approved
+31,20615,Employed,300000,Personal,3,Not Approved
+36,34250,Unemployed,400000,other,4,Approved
+37,46142,Employed,75000,Home,0.8,Approved
+52,22246,Self-Employed,400000,Personal,4,Approved
+32,37455,Self-Employed,100000,Car,1,Approved
+36,57509,Employed,150000,Home,1.5,Approved
+30,33990,Employed,250000,Home,2.5,Not Approved
+32,55553,Self-Employed,125000,Car,1.2,Not Approved
+32,37310,Unemployed,400000,Personal,4,Not Approved
+41,33610,Self-Employed,400000,Personal,4,Not Approved
+48,54708,Unemployed,100000,Car,1,Approved
+35,40904,Self-Employed,75000,Personal,0.8,Approved
+57,48226,Unemployed,100000,Car,1,Approved
+45,30259,Self-Employed,150000,Home,1.5,Approved
+58,30167,Self-Employed,125000,Car,1.2,Not Approved
+58,56855,Unemployed,150000,Home,1.5,Approved
+44,27901,Self-Employed,125000,Car,1.2,Approved
+47,38836,Employed,75000,Personal,0.8,Approved
+54,31208,Employed,200000,Personal,2,Not Approved
+49,41241,Employed,300000,Personal,3,Not Approved
+33,55276,Self-Employed,50000,Personal,0.6,Approved
+40,34310,Employed,300000,Personal,3,Approved
+41,54505,Self-Employed,75000,Car,0.8,Not Approved
+48,39812,Self-Employed,50000,Personal,0.6,Approved
+48,52189,Self-Employed,400000,Home,4,Not Approved
+36,22292,Unemployed,500000,other,5,Not Approved
+59,45745,Unemployed,75000,Personal,0.8,Approved
+57,35391,Self-Employed,75000,Car,0.8,Not Approved
+33,22989,Unemployed,200000,Home,2,Approved
+21,28592,Employed,50000,Home,0.6,Not Approved
+56,52888,Employed,350000,Personal,3.5,Not Approved
+25,43914,Self-Employed,150000,Car,1.5,Approved
+44,54530,Self-Employed,150000,Home,1.5,Not Approved
+25,25274,Employed,350000,Car,3.5,Not Approved
+57,21830,Unemployed,450000,other,4.5,Approved
+57,26710,Self-Employed,50000,Personal,0.6,Not Approved
+31,54826,Self-Employed,300000,other,3,Not Approved
+50,40310,Self-Employed,200000,Car,2,Not Approved
+55,32919,Self-Employed,150000,Car,1.5,Approved
+39,20875,Unemployed,50000,Personal,0.6,Not Approved
+48,38310,Unemployed,125000,Car,1.2,Approved
+44,53171,Self-Employed,200000,Personal,2,Approved
+35,37830,Employed,150000,Car,1.5,Approved
+50,37455,Self-Employed,400000,other,4,Not Approved
+56,25183,Unemployed,350000,Personal,3.5,Not Approved
+32,44836,Employed,300000,Home,3,Not Approved
+57,49337,Self-Employed,100000,Car,1,Not Approved
+49,43374,Self-Employed,300000,Home,3,Approved
+23,28192,Self-Employed,150000,Personal,1.5,Not Approved
+23,23407,Unemployed,75000,other,0.8,Not Approved
+28,52231,Unemployed,250000,Car,2.5,Not Approved
+23,48216,Self-Employed,450000,other,4.5,Approved
+25,28532,Self-Employed,150000,other,1.5,Approved
+29,20881,Employed,100000,Car,1,Not Approved
+50,45993,Unemployed,500000,other,5,Approved
+46,43917,Self-Employed,50000,Personal,0.6,Not Approved
+57,46212,Self-Employed,150000,Car,1.5,Not Approved
+41,42055,Employed,50000,Car,0.6,Approved
+40,28513,Self-Employed,250000,other,2.5,Approved
+27,50660,Self-Employed,100000,other,1,Approved
+20,59697,Self-Employed,150000,Car,1.5,Approved
+21,40859,Unemployed,125000,Home,1.2,Approved
+38,46584,Self-Employed,125000,Personal,1.2,Approved
+47,42129,Self-Employed,400000,other,4,Approved
+48,25466,Employed,450000,Home,4.5,Approved
+49,25703,Unemployed,350000,other,3.5,Not Approved
+46,26774,Self-Employed,450000,Home,4.5,Approved
+53,57282,Unemployed,50000,Home,0.6,Approved
+26,34071,Unemployed,250000,Home,2.5,Not Approved
+35,54257,Employed,250000,Personal,2.5,Approved
+31,37526,Employed,450000,Personal,4.5,Approved
+29,22672,Unemployed,125000,Personal,1.2,Approved
+22,29599,Self-Employed,400000,Home,4,Approved
+49,28452,Self-Employed,100000,other,1,Approved
+53,27499,Self-Employed,125000,Personal,1.2,Approved
+58,41931,Unemployed,50000,other,0.6,Not Approved
+47,57639,Unemployed,50000,Car,0.6,Approved
+58,20840,Employed,300000,other,3,Not Approved
+56,39635,Self-Employed,75000,other,0.8,Not Approved
+22,38836,Employed,500000,Car,5,Approved
+23,53415,Employed,400000,other,4,Approved
+45,27446,Unemployed,350000,Car,3.5,Approved
+42,42775,Employed,300000,Car,3,Approved
+53,44992,Unemployed,500000,Personal,5,Approved
+52,52256,Self-Employed,50000,other,0.6,Not Approved
+48,29571,Employed,50000,Personal,0.6,Not Approved
+54,58592,Unemployed,500000,Car,5,Approved
+29,38863,Unemployed,400000,Car,4,Not Approved
+30,48255,Self-Employed,450000,Home,4.5,Not Approved
+57,45804,Unemployed,100000,Car,1,Not Approved
+26,54078,Unemployed,500000,Personal,5,Not Approved
+58,55163,Self-Employed,300000,Home,3,Approved
+50,36734,Employed,500000,other,5,Not Approved
+28,48776,Employed,75000,Home,0.8,Not Approved
+52,29781,Unemployed,125000,Home,1.2,Approved
+36,44484,Unemployed,300000,Car,3,Not Approved
+57,44280,Self-Employed,450000,Car,4.5,Not Approved
+44,51090,Employed,350000,Home,3.5,Approved
+52,33568,Self-Employed,100000,Personal,1,Not Approved
+48,48557,Unemployed,200000,Car,2,Not Approved
+57,59400,Employed,500000,Personal,5,Approved
+31,49030,Unemployed,125000,Car,1.2,Approved
+53,37219,Self-Employed,350000,Home,3.5,Not Approved
+25,51811,Employed,100000,Personal,1,Approved
+47,41452,Unemployed,150000,Personal,1.5,Approved
+48,40911,Self-Employed,400000,Personal,4,Not Approved
+56,48210,Unemployed,100000,Personal,1,Not Approved
+59,21074,Employed,400000,Home,4,Approved
+43,41527,Unemployed,500000,Home,5,Not Approved
+47,51845,Unemployed,125000,Personal,1.2,Approved
+58,44896,Unemployed,125000,Home,1.2,Not Approved
+43,31223,Unemployed,150000,Car,1.5,Not Approved
+51,42521,Employed,75000,Home,0.8,Not Approved
+37,46755,Unemployed,50000,other,0.6,Approved
+42,27282,Unemployed,75000,Home,0.8,Approved
+22,26378,Unemployed,200000,Personal,2,Approved
+36,30058,Self-Employed,200000,Home,2,Approved
+46,28023,Self-Employed,300000,other,3,Not Approved
+41,48824,Self-Employed,250000,Home,2.5,Approved
+39,35143,Employed,200000,other,2,Not Approved
+27,40474,Employed,450000,Personal,4.5,Approved
+42,49472,Unemployed,125000,other,1.2,Not Approved
+39,38679,Unemployed,125000,Personal,1.2,Not Approved
+57,39125,Employed,450000,other,4.5,Not Approved
+33,45060,Unemployed,200000,Personal,2,Not Approved
+42,24698,Employed,200000,Home,2,Approved
+35,51618,Employed,100000,Car,1,Approved
+40,37345,Employed,350000,Home,3.5,Not Approved
+29,43752,Unemployed,75000,other,0.8,Not Approved
+55,22178,Employed,500000,Personal,5,Approved
+35,32020,Self-Employed,300000,other,3,Approved
+33,39315,Self-Employed,100000,other,1,Not Approved
+25,55995,Unemployed,250000,Personal,2.5,Not Approved
+26,55095,Unemployed,250000,Personal,2.5,Not Approved
+26,44904,Employed,100000,Personal,1,Not Approved
+38,23830,Self-Employed,450000,Personal,4.5,Approved
+48,26640,Unemployed,100000,other,1,Approved
+38,44439,Unemployed,450000,other,4.5,Not Approved
+29,20444,Employed,50000,other,0.6,Not Approved
+35,39125,Self-Employed,450000,other,4.5,Approved
+24,45022,Self-Employed,100000,Home,1,Not Approved
+50,38018,Employed,125000,Home,1.2,Approved
+53,57740,Unemployed,75000,Home,0.8,Approved
+43,52719,Unemployed,450000,Home,4.5,Not Approved
+52,46231,Employed,100000,Home,1,Approved
+38,58920,Self-Employed,200000,Home,2,Approved
+41,35308,Employed,125000,other,1.2,Not Approved
+33,36225,Self-Employed,300000,Car,3,Approved
+57,20228,Employed,350000,Home,3.5,Not Approved
+54,20335,Employed,250000,Home,2.5,Approved
+37,39285,Unemployed,125000,other,1.2,Not Approved
+34,51638,Self-Employed,125000,Personal,1.2,Approved
+37,32490,Self-Employed,200000,Home,2,Approved
+34,40876,Unemployed,450000,Car,4.5,Not Approved
+34,34734,Self-Employed,125000,other,1.2,Not Approved
+43,23126,Self-Employed,75000,other,0.8,Not Approved
+34,21159,Employed,125000,Home,1.2,Approved
+43,53749,Employed,250000,Personal,2.5,Approved
+37,45163,Unemployed,75000,Personal,0.8,Not Approved
+52,20156,Employed,200000,Home,2,Approved
+35,37295,Unemployed,75000,other,0.8,Not Approved
+54,47014,Unemployed,400000,Home,4,Not Approved
+45,40339,Employed,400000,Personal,4,Not Approved
+43,50761,Unemployed,200000,Home,2,Approved
+24,35840,Self-Employed,125000,Home,1.2,Approved
+21,23973,Unemployed,500000,other,5,Not Approved
+20,38608,Employed,200000,Car,2,Approved
+37,45541,Self-Employed,400000,other,4,Not Approved
+38,24532,Unemployed,450000,other,4.5,Not Approved
+39,37727,Unemployed,50000,Personal,0.6,Not Approved
+49,43122,Self-Employed,450000,Home,4.5,Approved
+37,24856,Self-Employed,450000,other,4.5,Not Approved
+35,25806,Unemployed,400000,Home,4,Not Approved
+48,39961,Unemployed,300000,Car,3,Not Approved
+22,51891,Employed,200000,Personal,2,Not Approved
+57,26545,Employed,450000,Home,4.5,Approved
+27,56420,Unemployed,75000,other,0.8,Not Approved
+33,35118,Unemployed,125000,Personal,1.2,Not Approved
+58,34370,Self-Employed,100000,Car,1,Not Approved
+58,40131,Unemployed,350000,Personal,3.5,Approved
+53,29344,Self-Employed,350000,Personal,3.5,Not Approved
+31,57744,Self-Employed,50000,other,0.6,Approved
+43,28547,Unemployed,250000,Personal,2.5,Approved
+52,52221,Employed,200000,other,2,Not Approved
+40,55152,Self-Employed,300000,Home,3,Approved
+31,30267,Self-Employed,300000,other,3,Not Approved
+21,29960,Employed,250000,other,2.5,Not Approved
+27,27522,Unemployed,125000,other,1.2,Not Approved
+43,35476,Unemployed,150000,Personal,1.5,Approved
+51,40958,Self-Employed,50000,other,0.6,Not Approved
+41,57685,Unemployed,50000,other,0.6,Not Approved
+32,38858,Self-Employed,100000,other,1,Approved
+44,32319,Unemployed,75000,Personal,0.8,Approved
+39,59991,Unemployed,200000,other,2,Not Approved
+51,21240,Unemployed,400000,other,4,Not Approved
+43,49254,Employed,200000,Home,2,Not Approved
+35,32978,Self-Employed,100000,Personal,1,Approved
+43,42537,Self-Employed,500000,other,5,Not Approved
+51,36565,Employed,150000,Car,1.5,Approved
+25,40670,Employed,125000,Personal,1.2,Approved
+29,52055,Self-Employed,400000,Personal,4,Not Approved
+27,52759,Unemployed,75000,Home,0.8,Not Approved
+32,52464,Unemployed,300000,Personal,3,Approved
+22,49424,Self-Employed,150000,Personal,1.5,Not Approved
+40,38749,Unemployed,450000,Car,4.5,Not Approved
+39,21051,Employed,500000,Home,5,Not Approved
+59,26782,Self-Employed,150000,Home,1.5,Approved
+29,57773,Unemployed,75000,Car,0.8,Not Approved
+55,45220,Employed,250000,other,2.5,Not Approved
+59,43851,Self-Employed,150000,Personal,1.5,Not Approved
+52,29106,Self-Employed,500000,Personal,5,Not Approved
+27,59741,Employed,250000,Home,2.5,Approved
+49,39387,Unemployed,50000,Car,0.6,Not Approved
+38,38060,Self-Employed,350000,Home,3.5,Not Approved
+29,52909,Employed,200000,other,2,Approved
+44,43152,Unemployed,250000,other,2.5,Approved
+23,46323,Employed,400000,Car,4,Approved
+27,28431,Employed,400000,Personal,4,Approved
+27,22366,Self-Employed,400000,Car,4,Approved
+36,25014,Unemployed,150000,Home,1.5,Not Approved
+52,56567,Unemployed,350000,Personal,3.5,Approved
+50,38225,Self-Employed,400000,Personal,4,Not Approved
+42,37676,Unemployed,500000,Car,5,Not Approved
+58,49538,Self-Employed,300000,Personal,3,Not Approved
+25,27402,Employed,100000,Personal,1,Not Approved
+39,32696,Employed,100000,other,1,Approved
+30,56287,Employed,50000,Car,0.6,Approved
+50,57076,Unemployed,350000,Personal,3.5,Not Approved
+48,29947,Unemployed,125000,Personal,1.2,Not Approved
+47,44472,Self-Employed,300000,Car,3,Approved
+21,25718,Self-Employed,350000,other,3.5,Approved
+41,45185,Unemployed,350000,Personal,3.5,Not Approved
+39,56698,Employed,350000,Home,3.5,Approved
+30,39959,Self-Employed,50000,other,0.6,Not Approved
+40,49493,Employed,500000,Car,5,Approved
+29,39907,Self-Employed,75000,Car,0.8,Not Approved
+23,40909,Self-Employed,400000,Car,4,Approved
+52,44728,Self-Employed,250000,Car,2.5,Approved
+59,52595,Self-Employed,350000,Home,3.5,Not Approved
+20,31707,Unemployed,100000,Car,1,Approved
+39,40256,Self-Employed,400000,other,4,Approved
+40,34400,Self-Employed,250000,other,2.5,Not Approved
+32,36771,Unemployed,300000,Car,3,Not Approved
+33,44863,Employed,250000,other,2.5,Not Approved
+25,20170,Employed,250000,Personal,2.5,Not Approved
+30,38946,Unemployed,125000,Personal,1.2,Not Approved
+42,38678,Employed,450000,Car,4.5,Not Approved
+42,57652,Employed,100000,Home,1,Not Approved
+45,30641,Self-Employed,450000,Home,4.5,Approved
+20,54341,Employed,450000,Home,4.5,Approved
+59,27308,Employed,100000,Car,1,Approved
+53,44047,Employed,500000,Car,5,Not Approved
+47,20928,Employed,75000,Car,0.8,Not Approved
+50,45017,Self-Employed,350000,Car,3.5,Not Approved
+22,55159,Self-Employed,400000,Car,4,Approved
+50,37066,Self-Employed,150000,Personal,1.5,Not Approved
+53,35256,Self-Employed,50000,other,0.6,Approved
+34,40304,Unemployed,200000,other,2,Approved
+34,57308,Employed,200000,other,2,Not Approved
+53,41857,Self-Employed,450000,Car,4.5,Approved
+51,49728,Self-Employed,300000,Home,3,Approved
+46,42687,Unemployed,75000,Car,0.8,Approved
+59,37887,Self-Employed,200000,other,2,Not Approved
+54,58719,Employed,100000,Car,1,Not Approved
+27,39749,Self-Employed,100000,Personal,1,Approved
+49,25019,Employed,450000,Car,4.5,Approved
+52,53813,Self-Employed,250000,other,2.5,Approved
+23,22223,Employed,150000,Personal,1.5,Not Approved
+24,53728,Self-Employed,250000,other,2.5,Approved
+56,57130,Unemployed,75000,Car,0.8,Approved
+25,20721,Self-Employed,400000,Car,4,Approved
+59,43971,Self-Employed,125000,Personal,1.2,Approved
+22,34233,Unemployed,200000,Personal,2,Approved
+52,35162,Unemployed,500000,Car,5,Approved
+40,33679,Self-Employed,125000,other,1.2,Not Approved
+38,43390,Employed,150000,Car,1.5,Not Approved
+59,28515,Unemployed,500000,other,5,Not Approved
+32,45749,Unemployed,100000,other,1,Not Approved
+50,40824,Employed,400000,Car,4,Approved
+47,45118,Unemployed,400000,Personal,4,Approved
+51,58551,Unemployed,50000,Car,0.6,Not Approved
+37,43562,Employed,450000,Car,4.5,Not Approved
+36,46503,Self-Employed,50000,other,0.6,Not Approved
+32,25218,Employed,50000,other,0.6,Not Approved
+42,48798,Self-Employed,350000,Home,3.5,Not Approved
+47,22863,Employed,300000,Car,3,Not Approved
+29,54906,Self-Employed,100000,Personal,1,Approved
+47,46815,Self-Employed,300000,Home,3,Approved
+40,39687,Employed,75000,Car,0.8,Not Approved
+40,31615,Unemployed,50000,Home,0.6,Not Approved
+47,37883,Self-Employed,500000,other,5,Not Approved
+50,45663,Unemployed,400000,Personal,4,Not Approved
+29,37050,Unemployed,400000,Home,4,Approved
+32,28085,Unemployed,250000,other,2.5,Approved
+58,35079,Self-Employed,75000,Personal,0.8,Approved
+26,46892,Employed,500000,other,5,Approved
+27,40717,Employed,500000,Car,5,Approved
+37,32971,Unemployed,125000,Personal,1.2,Not Approved
+35,45043,Employed,150000,other,1.5,Not Approved
+21,53054,Self-Employed,450000,Home,4.5,Not Approved
+34,46234,Employed,500000,Personal,5,Not Approved
+58,58955,Employed,300000,Home,3,Approved
+30,25764,Self-Employed,400000,Home,4,Approved
+45,40112,Self-Employed,125000,Personal,1.2,Approved
+59,36348,Employed,150000,Car,1.5,Not Approved
+52,34492,Self-Employed,150000,Home,1.5,Approved
+50,38205,Self-Employed,400000,Personal,4,Not Approved
+55,41103,Employed,50000,other,0.6,Not Approved
+23,55134,Unemployed,100000,Home,1,Approved
+50,48898,Unemployed,250000,Car,2.5,Approved
+22,24023,Self-Employed,500000,Car,5,Not Approved
+56,53339,Self-Employed,500000,Personal,5,Approved
+56,44034,Unemployed,300000,other,3,Approved
+59,20929,Employed,100000,other,1,Approved
+56,53022,Employed,200000,Home,2,Approved
+44,38765,Self-Employed,100000,other,1,Approved
+25,46411,Self-Employed,50000,Home,0.6,Not Approved
+22,25081,Employed,200000,other,2,Not Approved
+55,31901,Employed,500000,other,5,Approved
+58,49574,Unemployed,450000,other,4.5,Approved
+52,31960,Unemployed,200000,other,2,Not Approved
+40,30181,Unemployed,75000,Home,0.8,Approved
+40,39464,Unemployed,100000,Home,1,Approved
+24,50549,Employed,150000,Car,1.5,Not Approved
+53,47988,Unemployed,100000,other,1,Approved
+44,35241,Employed,75000,Home,0.8,Approved
+43,31542,Employed,75000,Car,0.8,Not Approved
+55,54260,Unemployed,200000,Home,2,Not Approved
+26,27486,Employed,100000,Car,1,Approved
+28,47223,Self-Employed,75000,Personal,0.8,Not Approved
+34,44511,Self-Employed,450000,Personal,4.5,Not Approved
+54,26215,Self-Employed,500000,other,5,Not Approved
+40,53703,Self-Employed,350000,Car,3.5,Approved
+29,59748,Unemployed,350000,other,3.5,Approved
+24,36243,Unemployed,250000,Home,2.5,Not Approved
+56,59782,Unemployed,125000,other,1.2,Not Approved
+26,35767,Employed,100000,other,1,Approved
+33,27708,Unemployed,350000,Home,3.5,Not Approved
+49,43894,Unemployed,150000,Personal,1.5,Approved
+29,53423,Self-Employed,100000,Car,1,Approved
+25,46110,Employed,125000,Home,1.2,Not Approved
+44,38123,Employed,250000,other,2.5,Not Approved
+50,59066,Unemployed,450000,Car,4.5,Approved
+52,54688,Unemployed,350000,Car,3.5,Approved
+36,26254,Unemployed,200000,Car,2,Approved
+59,30866,Employed,350000,other,3.5,Approved
+20,35446,Employed,350000,other,3.5,Approved
+27,30006,Self-Employed,200000,Home,2,Approved
+25,27313,Employed,125000,Home,1.2,Not Approved
+42,43999,Unemployed,150000,Personal,1.5,Approved
+44,21167,Employed,400000,other,4,Not Approved
+39,33109,Employed,250000,Car,2.5,Not Approved
+34,24418,Unemployed,125000,Home,1.2,Approved
+54,29157,Employed,125000,Car,1.2,Approved
+44,25135,Self-Employed,150000,Car,1.5,Not Approved
+56,28370,Unemployed,400000,Car,4,Approved
+46,23371,Unemployed,350000,other,3.5,Approved
+20,41406,Employed,50000,Personal,0.6,Approved
+37,53685,Employed,350000,Car,3.5,Not Approved
+48,36661,Self-Employed,500000,Home,5,Approved
+22,25094,Self-Employed,100000,Car,1,Approved
+46,38182,Self-Employed,100000,other,1,Not Approved
+52,52260,Self-Employed,200000,Car,2,Approved
+27,56568,Self-Employed,400000,Car,4,Approved
+30,48472,Unemployed,200000,Home,2,Approved
+48,37443,Self-Employed,450000,Car,4.5,Not Approved
+24,30464,Employed,400000,Home,4,Approved
+38,24523,Self-Employed,150000,Personal,1.5,Approved
+30,23676,Unemployed,500000,Personal,5,Not Approved
+40,39386,Unemployed,50000,Personal,0.6,Approved
+39,31106,Unemployed,100000,other,1,Not Approved
+58,33509,Self-Employed,250000,Home,2.5,Not Approved
+58,42976,Unemployed,250000,Car,2.5,Approved
+36,56211,Self-Employed,400000,Home,4,Approved
+29,35085,Unemployed,125000,Car,1.2,Approved
+50,42481,Employed,450000,Personal,4.5,Approved
+58,24804,Self-Employed,75000,other,0.8,Approved
+36,50616,Unemployed,75000,Home,0.8,Not Approved
+25,39400,Self-Employed,350000,other,3.5,Not Approved
+41,47520,Unemployed,125000,Home,1.2,Approved
+24,31175,Self-Employed,50000,Home,0.6,Not Approved
+41,51841,Self-Employed,250000,Car,2.5,Not Approved
+40,28860,Unemployed,400000,Home,4,Approved
+51,53886,Employed,350000,Car,3.5,Not Approved
+51,50917,Unemployed,200000,Home,2,Not Approved
+22,38559,Unemployed,100000,Personal,1,Not Approved
+32,52219,Employed,500000,Car,5,Approved
+21,59512,Employed,125000,Personal,1.2,Not Approved
+55,45152,Unemployed,150000,Personal,1.5,Approved
+23,40317,Unemployed,400000,Car,4,Not Approved
+35,43376,Employed,150000,other,1.5,Not Approved
+46,39861,Unemployed,500000,Car,5,Approved
+36,27100,Employed,500000,Home,5,Not Approved
+22,52021,Unemployed,75000,Car,0.8,Approved
+44,21167,Self-Employed,150000,Car,1.5,Not Approved
+49,44875,Self-Employed,400000,Personal,4,Not Approved
+34,43812,Employed,100000,Car,1,Not Approved
+27,32133,Self-Employed,350000,Car,3.5,Not Approved
+35,24384,Unemployed,450000,Home,4.5,Approved
+32,44052,Employed,150000,Personal,1.5,Approved
+42,55807,Self-Employed,250000,Home,2.5,Not Approved
+48,21585,Employed,450000,other,4.5,Not Approved
+57,25575,Unemployed,200000,other,2,Not Approved
+44,33595,Employed,125000,Car,1.2,Not Approved
+47,44394,Unemployed,300000,Personal,3,Approved
+26,26846,Self-Employed,200000,Home,2,Not Approved
+39,57937,Self-Employed,100000,Personal,1,Approved
+31,37997,Self-Employed,450000,other,4.5,Not Approved
+55,57090,Unemployed,125000,Personal,1.2,Approved
+25,21425,Unemployed,100000,Personal,1,Not Approved
+25,38700,Unemployed,50000,Personal,0.6,Not Approved
+59,49844,Unemployed,300000,other,3,Approved
+29,23851,Self-Employed,200000,Car,2,Approved
+55,22869,Employed,75000,other,0.8,Approved
+28,55316,Self-Employed,200000,Car,2,Not Approved
+54,42278,Unemployed,500000,Personal,5,Approved
+38,49100,Employed,500000,Home,5,Approved
+56,34125,Unemployed,75000,other,0.8,Not Approved
+38,28547,Self-Employed,450000,other,4.5,Not Approved
+36,35901,Employed,350000,Personal,3.5,Not Approved
+43,33827,Unemployed,150000,Car,1.5,Approved
+21,34002,Employed,75000,Car,0.8,Not Approved
+27,31287,Unemployed,450000,other,4.5,Approved
+54,49218,Employed,500000,other,5,Approved
+52,37581,Self-Employed,125000,other,1.2,Approved
+44,53410,Self-Employed,150000,other,1.5,Approved
+41,36140,Unemployed,350000,Personal,3.5,Not Approved
+35,44009,Employed,300000,Personal,3,Not Approved
+54,47378,Employed,350000,Home,3.5,Approved
+49,44460,Unemployed,450000,Car,4.5,Not Approved
+45,38757,Self-Employed,75000,Car,0.8,Not Approved
+33,20856,Self-Employed,500000,Personal,5,Not Approved
+47,53988,Self-Employed,125000,Car,1.2,Approved
+49,41424,Self-Employed,50000,Car,0.6,Not Approved
+45,51348,Employed,100000,Car,1,Not Approved
+45,56105,Unemployed,200000,Car,2,Approved
+58,23511,Employed,350000,Personal,3.5,Not Approved
+50,48367,Employed,50000,Personal,0.6,Approved
+22,56054,Self-Employed,125000,other,1.2,Not Approved
+31,40705,Unemployed,75000,Home,0.8,Approved
+25,50339,Employed,450000,other,4.5,Not Approved
+46,39257,Employed,75000,Personal,0.8,Not Approved
+40,20660,Self-Employed,50000,Car,0.6,Not Approved
+44,51724,Self-Employed,300000,Car,3,Not Approved
+52,59922,Self-Employed,50000,other,0.6,Approved
+38,47425,Employed,300000,Home,3,Approved
+52,43270,Self-Employed,50000,Home,0.6,Not Approved
+41,26325,Employed,125000,other,1.2,Not Approved
+55,49945,Unemployed,150000,Home,1.5,Approved
+44,54685,Self-Employed,50000,Car,0.6,Not Approved
+23,56598,Unemployed,50000,Personal,0.6,Not Approved
+52,27896,Self-Employed,150000,other,1.5,Not Approved
+24,45134,Self-Employed,75000,other,0.8,Approved
+41,29765,Unemployed,75000,Home,0.8,Not Approved
+34,56112,Employed,125000,Personal,1.2,Not Approved
+39,50760,Employed,125000,Home,1.2,Not Approved
+52,48745,Employed,125000,Personal,1.2,Not Approved
+56,47108,Employed,500000,Car,5,Not Approved
+20,34808,Unemployed,450000,Car,4.5,Not Approved
+36,31064,Employed,500000,Car,5,Not Approved
+22,41724,Employed,250000,other,2.5,Approved
+56,32768,Employed,250000,other,2.5,Not Approved
+37,54882,Employed,500000,other,5,Approved
+38,24437,Employed,75000,Home,0.8,Not Approved
+23,59648,Self-Employed,125000,Car,1.2,Approved
+52,30981,Unemployed,500000,Car,5,Not Approved
+45,39200,Employed,250000,Personal,2.5,Not Approved
+30,46967,Unemployed,200000,Home,2,Not Approved
+29,57353,Employed,500000,Car,5,Approved
+23,28931,Self-Employed,200000,Personal,2,Not Approved
+21,28992,Self-Employed,400000,Personal,4,Approved
+45,55883,Employed,100000,Personal,1,Approved
+32,22612,Employed,250000,Car,2.5,Not Approved
+20,55005,Employed,250000,Car,2.5,Approved
+20,59586,Unemployed,300000,other,3,Approved
+46,28540,Employed,50000,Personal,0.6,Not Approved
+52,50392,Unemployed,150000,Car,1.5,Not Approved
+45,35926,Employed,125000,Home,1.2,Approved
+56,43784,Self-Employed,100000,other,1,Not Approved
+56,42956,Unemployed,50000,Home,0.6,Not Approved
+53,36169,Self-Employed,125000,Home,1.2,Approved
+37,37282,Employed,75000,Personal,0.8,Approved
+42,44165,Employed,250000,Car,2.5,Not Approved
+59,23974,Employed,400000,Car,4,Not Approved
+43,21002,Unemployed,450000,other,4.5,Approved
+25,25178,Unemployed,450000,Car,4.5,Not Approved
+44,21424,Unemployed,100000,other,1,Approved
+50,59446,Employed,500000,Personal,5,Approved
+52,36199,Unemployed,200000,Home,2,Approved
+33,22110,Self-Employed,300000,Home,3,Approved
+41,41621,Self-Employed,150000,Car,1.5,Approved
+39,45434,Unemployed,125000,Home,1.2,Approved
+49,41080,Employed,75000,Car,0.8,Not Approved
+44,49490,Unemployed,75000,Personal,0.8,Approved
+59,27937,Self-Employed,125000,Home,1.2,Approved
+59,45062,Employed,125000,Personal,1.2,Not Approved
+21,28948,Self-Employed,400000,Personal,4,Not Approved
+34,59866,Self-Employed,150000,Home,1.5,Approved
+51,48356,Unemployed,100000,Personal,1,Not Approved
+41,37934,Self-Employed,400000,Home,4,Approved
+55,51757,Self-Employed,100000,Car,1,Not Approved
+47,27051,Self-Employed,150000,other,1.5,Not Approved
+42,34749,Self-Employed,400000,Car,4,Not Approved
+57,59803,Unemployed,50000,other,0.6,Not Approved
+36,25364,Employed,450000,other,4.5,Approved
+54,47888,Self-Employed,125000,Personal,1.2,Approved
+30,51634,Unemployed,75000,Car,0.8,Approved
+20,55206,Unemployed,50000,Personal,0.6,Approved
+23,32231,Employed,50000,other,0.6,Not Approved
+34,49608,Employed,200000,other,2,Approved
+58,40555,Employed,300000,other,3,Approved
+49,20353,Employed,50000,Home,0.6,Not Approved
+56,54139,Employed,150000,Car,1.5,Approved
+37,25984,Self-Employed,450000,Personal,4.5,Not Approved
+57,58069,Self-Employed,350000,other,3.5,Approved
+22,40007,Unemployed,125000,other,1.2,Approved
+32,48659,Unemployed,150000,Home,1.5,Approved
+30,50070,Self-Employed,350000,Home,3.5,Approved
+31,55691,Self-Employed,200000,Car,2,Approved
+42,56113,Self-Employed,300000,Car,3,Approved
+35,24993,Unemployed,500000,Personal,5,Approved
+44,31406,Unemployed,150000,Car,1.5,Not Approved
+26,40139,Self-Employed,500000,Home,5,Approved
+51,54852,Self-Employed,350000,Car,3.5,Approved
+41,52499,Employed,250000,Home,2.5,Not Approved
+56,52390,Self-Employed,350000,Home,3.5,Not Approved
+57,52628,Unemployed,100000,Personal,1,Not Approved
+21,48036,Self-Employed,500000,Personal,5,Not Approved
+32,24036,Self-Employed,250000,Personal,2.5,Approved
+46,37485,Unemployed,500000,Car,5,Not Approved
+49,37705,Unemployed,150000,Home,1.5,Approved
+53,58534,Unemployed,350000,other,3.5,Approved
+42,25613,Unemployed,125000,Personal,1.2,Approved
+51,37964,Employed,450000,other,4.5,Approved
+48,30349,Self-Employed,125000,Home,1.2,Approved
+49,52786,Self-Employed,400000,Car,4,Not Approved
+46,37859,Employed,450000,Car,4.5,Not Approved
+34,31319,Employed,350000,Personal,3.5,Not Approved
+25,21477,Unemployed,250000,Personal,2.5,Not Approved
+49,55770,Unemployed,450000,Personal,4.5,Approved
+55,46598,Self-Employed,125000,other,1.2,Not Approved
+34,28586,Employed,75000,Home,0.8,Not Approved
+54,53975,Employed,350000,Home,3.5,Approved
+31,59524,Unemployed,75000,Home,0.8,Approved
+34,46930,Employed,75000,Car,0.8,Not Approved
+25,58311,Employed,350000,Home,3.5,Not Approved
+44,50819,Unemployed,200000,Car,2,Not Approved
+54,26672,Unemployed,75000,Car,0.8,Approved
+41,58684,Self-Employed,75000,Personal,0.8,Not Approved
+37,50383,Self-Employed,50000,Car,0.6,Approved
+54,33819,Unemployed,300000,Personal,3,Not Approved
+29,38813,Self-Employed,50000,Personal,0.6,Not Approved
+46,41490,Employed,400000,other,4,Not Approved
+37,45298,Self-Employed,250000,Personal,2.5,Not Approved
+55,42015,Self-Employed,500000,other,5,Approved
+55,23678,Unemployed,75000,Personal,0.8,Not Approved
+47,38027,Employed,500000,other,5,Not Approved
+49,56132,Unemployed,300000,Personal,3,Not Approved
+30,32880,Employed,350000,Home,3.5,Not Approved
+36,50149,Unemployed,125000,other,1.2,Not Approved
+50,31112,Employed,350000,other,3.5,Approved
+33,36809,Unemployed,125000,Personal,1.2,Not Approved
+40,40073,Self-Employed,500000,Home,5,Approved
+56,51944,Employed,150000,other,1.5,Approved
+55,50194,Self-Employed,200000,Car,2,Not Approved
+55,31787,Employed,500000,Home,5,Not Approved
+45,39989,Employed,150000,Home,1.5,Not Approved
+22,40552,Self-Employed,75000,Home,0.8,Not Approved
+34,56589,Self-Employed,350000,other,3.5,Approved
+55,35856,Self-Employed,50000,Personal,0.6,Not Approved
+24,48634,Self-Employed,150000,Car,1.5,Approved
+22,54657,Self-Employed,100000,other,1,Approved
+58,39851,Employed,150000,other,1.5,Approved
+41,51385,Self-Employed,200000,other,2,Approved
+49,22207,Unemployed,150000,other,1.5,Approved
+22,42665,Employed,200000,Personal,2,Approved
+51,36602,Employed,125000,other,1.2,Approved
+55,38082,Self-Employed,300000,Home,3,Approved
+45,25037,Self-Employed,125000,other,1.2,Approved
+33,20213,Employed,400000,Home,4,Not Approved
+57,43001,Employed,100000,Car,1,Not Approved
+25,47876,Unemployed,450000,other,4.5,Approved
+35,54757,Employed,125000,Car,1.2,Not Approved
+22,55324,Employed,150000,Home,1.5,Not Approved
+21,26423,Employed,500000,Personal,5,Not Approved
+53,34496,Self-Employed,300000,Home,3,Approved
+42,59383,Employed,150000,Home,1.5,Approved
+54,25988,Unemployed,75000,Home,0.8,Not Approved
+55,42412,Unemployed,50000,Home,0.6,Approved
+43,44752,Employed,450000,Home,4.5,Approved
+26,52464,Employed,350000,Home,3.5,Approved
+36,35507,Self-Employed,50000,Home,0.6,Not Approved
+49,49593,Employed,450000,Car,4.5,Approved
+26,52326,Unemployed,50000,other,0.6,Not Approved
+55,46035,Employed,500000,Car,5,Not Approved
+46,44789,Unemployed,75000,Car,0.8,Approved
+40,59174,Unemployed,100000,Car,1,Not Approved
+22,42043,Employed,400000,Personal,4,Approved
+44,20103,Unemployed,125000,Home,1.2,Approved
+59,36384,Self-Employed,300000,Personal,3,Approved
+22,24770,Self-Employed,100000,Car,1,Approved
+51,20199,Self-Employed,150000,Car,1.5,Approved
+52,57189,Unemployed,350000,other,3.5,Approved
+48,45884,Unemployed,125000,other,1.2,Not Approved
+40,36132,Unemployed,300000,Personal,3,Approved
+35,23610,Unemployed,125000,Personal,1.2,Approved
+36,49133,Employed,450000,Home,4.5,Not Approved
+20,29896,Self-Employed,150000,Home,1.5,Not Approved
+47,39369,Self-Employed,450000,other,4.5,Not Approved
+39,30237,Self-Employed,200000,Home,2,Approved
+25,59092,Employed,500000,Home,5,Not Approved
+23,28807,Unemployed,150000,Car,1.5,Not Approved
+23,50270,Unemployed,75000,Car,0.8,Approved
+54,23244,Self-Employed,150000,Personal,1.5,Approved
+47,50410,Employed,125000,Car,1.2,Not Approved
+21,42847,Employed,250000,Home,2.5,Not Approved
+25,26992,Unemployed,400000,Car,4,Not Approved
+27,25236,Self-Employed,125000,Car,1.2,Not Approved
+41,25022,Self-Employed,300000,Home,3,Not Approved
+55,33609,Unemployed,125000,other,1.2,Approved
+49,53381,Self-Employed,250000,Car,2.5,Approved
+44,27180,Unemployed,300000,Personal,3,Approved
+36,37855,Employed,100000,Personal,1,Not Approved
+34,24256,Unemployed,125000,Personal,1.2,Approved
+20,27857,Self-Employed,50000,Personal,0.6,Not Approved
+35,49384,Unemployed,50000,Home,0.6,Approved
+47,46192,Unemployed,200000,Car,2,Approved
+22,20803,Employed,350000,Personal,3.5,Not Approved
+22,59835,Unemployed,350000,Personal,3.5,Not Approved
+49,56476,Employed,150000,Personal,1.5,Not Approved
+35,55707,Unemployed,125000,Personal,1.2,Approved
+22,43412,Self-Employed,75000,Home,0.8,Approved
+42,50130,Self-Employed,200000,Car,2,Not Approved
+26,33995,Self-Employed,50000,Personal,0.6,Not Approved
+48,49106,Self-Employed,50000,Car,0.6,Not Approved
+50,50758,Employed,250000,Personal,2.5,Not Approved
+42,49524,Self-Employed,350000,other,3.5,Not Approved
+37,26915,Unemployed,150000,Personal,1.5,Not Approved
+30,43802,Employed,150000,other,1.5,Approved
+21,35962,Self-Employed,200000,Home,2,Not Approved
+31,21251,Unemployed,150000,Home,1.5,Not Approved
+31,57591,Self-Employed,250000,other,2.5,Not Approved
+43,33733,Unemployed,500000,other,5,Not Approved
+48,27087,Employed,100000,Car,1,Not Approved
+23,36047,Employed,300000,Personal,3,Not Approved
+45,41741,Self-Employed,75000,other,0.8,Not Approved
+20,56957,Employed,250000,Car,2.5,Not Approved
+44,24215,Self-Employed,450000,Personal,4.5,Not Approved
+29,29194,Self-Employed,200000,other,2,Not Approved
+29,43094,Unemployed,75000,other,0.8,Approved
+44,54282,Self-Employed,450000,Car,4.5,Approved
+32,49540,Unemployed,100000,Car,1,Not Approved
+22,43825,Unemployed,300000,other,3,Not Approved
+21,34252,Employed,150000,Car,1.5,Approved
+57,43745,Unemployed,500000,Home,5,Not Approved
+35,41509,Employed,125000,Car,1.2,Approved
+22,40741,Employed,400000,Car,4,Not Approved
+36,31590,Self-Employed,450000,Personal,4.5,Approved
+24,35026,Self-Employed,500000,other,5,Not Approved
+25,41854,Employed,125000,other,1.2,Not Approved
+49,33157,Unemployed,500000,Car,5,Approved
+27,45020,Unemployed,150000,other,1.5,Not Approved
+58,42737,Unemployed,300000,other,3,Not Approved
+33,51395,Employed,50000,Home,0.6,Not Approved
+51,37828,Unemployed,100000,other,1,Not Approved
+46,45122,Self-Employed,100000,Personal,1,Not Approved
+37,53525,Employed,450000,other,4.5,Approved
+27,27925,Self-Employed,350000,Car,3.5,Not Approved
+57,51034,Self-Employed,100000,other,1,Approved
+40,58425,Unemployed,350000,Personal,3.5,Approved
+51,44483,Employed,450000,Car,4.5,Not Approved
+33,40880,Employed,200000,Car,2,Not Approved
+48,30177,Unemployed,125000,Personal,1.2,Not Approved
+29,41346,Self-Employed,75000,Personal,0.8,Not Approved
+29,52121,Unemployed,400000,other,4,Approved
+35,36900,Self-Employed,125000,Home,1.2,Approved
+45,47305,Self-Employed,125000,other,1.2,Not Approved
+47,58075,Employed,125000,Car,1.2,Approved
+56,41769,Self-Employed,50000,Personal,0.6,Not Approved
+22,28918,Self-Employed,250000,other,2.5,Approved
+45,57966,Unemployed,50000,other,0.6,Approved
+38,34155,Unemployed,125000,Car,1.2,Not Approved
+52,46759,Self-Employed,450000,Car,4.5,Approved
+23,59226,Employed,125000,Car,1.2,Not Approved
+25,21398,Unemployed,350000,Personal,3.5,Approved
+23,49700,Self-Employed,400000,other,4,Approved
+20,51598,Employed,75000,Car,0.8,Approved
+57,47666,Employed,50000,Personal,0.6,Not Approved
+40,39727,Unemployed,500000,other,5,Approved
+23,36178,Self-Employed,75000,Car,0.8,Approved
+25,49061,Self-Employed,450000,other,4.5,Approved
+45,48756,Employed,125000,Personal,1.2,Not Approved
+30,45530,Self-Employed,300000,Personal,3,Approved
+59,33725,Self-Employed,400000,Home,4,Approved
+30,30468,Self-Employed,150000,Car,1.5,Approved
+53,41172,Employed,200000,Personal,2,Approved
+46,38946,Unemployed,250000,Personal,2.5,Approved
+46,33301,Employed,450000,Car,4.5,Approved
+40,43453,Unemployed,450000,Home,4.5,Not Approved
+33,59019,Unemployed,75000,other,0.8,Not Approved
+23,52421,Unemployed,350000,Personal,3.5,Not Approved
+23,51027,Unemployed,75000,Personal,0.8,Approved
+21,57920,Self-Employed,100000,other,1,Not Approved
+58,48632,Self-Employed,500000,other,5,Approved
+53,54485,Self-Employed,450000,other,4.5,Not Approved
+43,37204,Unemployed,50000,Car,0.6,Approved
+25,25035,Unemployed,75000,other,0.8,Approved
+47,57938,Self-Employed,400000,Personal,4,Approved
+57,35411,Self-Employed,400000,Car,4,Approved
+47,40479,Self-Employed,350000,other,3.5,Approved
+30,59657,Self-Employed,100000,other,1,Not Approved
+43,26360,Self-Employed,200000,Home,2,Not Approved
+33,21145,Employed,400000,Personal,4,Not Approved
+58,31852,Unemployed,200000,Car,2,Approved
+24,35223,Self-Employed,350000,Personal,3.5,Not Approved
+31,31674,Self-Employed,300000,Home,3,Approved
+56,26208,Self-Employed,250000,Car,2.5,Not Approved
+52,55582,Employed,50000,other,0.6,Approved
+36,20406,Employed,50000,Home,0.6,Approved
+31,23165,Employed,300000,Car,3,Not Approved
+34,42871,Employed,75000,other,0.8,Not Approved
+29,49505,Employed,300000,Car,3,Approved
+37,39065,Self-Employed,125000,Home,1.2,Approved
+24,55086,Self-Employed,50000,Car,0.6,Approved
+48,35224,Employed,100000,Car,1,Not Approved
+42,28550,Self-Employed,400000,other,4,Not Approved
+27,57244,Unemployed,400000,Personal,4,Not Approved
+41,24519,Employed,200000,Car,2,Not Approved
+54,20677,Self-Employed,250000,Home,2.5,Not Approved
+28,58864,Employed,50000,Home,0.6,Approved
+27,54592,Unemployed,125000,Car,1.2,Approved
+47,40219,Unemployed,200000,Car,2,Approved
+33,36020,Self-Employed,150000,Personal,1.5,Not Approved
+37,31702,Employed,150000,Personal,1.5,Approved
+58,31957,Self-Employed,200000,Personal,2,Approved
+42,42883,Unemployed,500000,Home,5,Approved
+29,47256,Employed,300000,Car,3,Not Approved
+38,45087,Self-Employed,100000,other,1,Not Approved
+24,22475,Unemployed,400000,Personal,4,Approved
+47,43084,Employed,100000,Personal,1,Not Approved
+30,57164,Self-Employed,350000,other,3.5,Not Approved
+59,21424,Self-Employed,50000,Personal,0.6,Approved
+41,55438,Employed,75000,Car,0.8,Approved
+58,20560,Employed,125000,Car,1.2,Not Approved
+28,44994,Unemployed,300000,other,3,Approved
+25,53853,Self-Employed,450000,Home,4.5,Approved
+27,24381,Self-Employed,125000,Home,1.2,Approved
+27,37220,Self-Employed,100000,Personal,1,Approved
+58,37088,Employed,125000,Car,1.2,Approved
+49,49202,Unemployed,450000,other,4.5,Not Approved
+31,45309,Employed,450000,Car,4.5,Approved
+53,37681,Unemployed,350000,Car,3.5,Not Approved
+59,55882,Employed,200000,Personal,2,Approved
+38,51454,Employed,250000,other,2.5,Approved
+26,56544,Unemployed,150000,other,1.5,Not Approved
+53,52932,Employed,75000,other,0.8,Not Approved
+43,54794,Self-Employed,250000,other,2.5,Approved
+39,24875,Unemployed,150000,Car,1.5,Approved
+55,53984,Unemployed,125000,other,1.2,Not Approved
+38,36743,Employed,75000,Home,0.8,Not Approved
+54,52534,Employed,400000,other,4,Not Approved
+20,33145,Employed,75000,other,0.8,Not Approved
+39,33158,Employed,100000,Personal,1,Not Approved
+33,45827,Self-Employed,500000,Personal,5,Approved
+34,20712,Employed,50000,other,0.6,Not Approved
+22,41532,Self-Employed,100000,other,1,Approved
+22,55877,Unemployed,250000,Home,2.5,Not Approved
+57,37662,Employed,250000,Car,2.5,Approved
+51,56826,Employed,50000,Personal,0.6,Approved
+42,35346,Unemployed,50000,Car,0.6,Approved
+58,42045,Unemployed,350000,Car,3.5,Approved
+28,22405,Self-Employed,450000,Car,4.5,Approved
+45,31376,Employed,500000,Car,5,Not Approved
+24,35903,Employed,350000,Home,3.5,Approved
+37,52898,Self-Employed,500000,Car,5,Not Approved
+27,53391,Self-Employed,125000,Home,1.2,Approved
+39,29249,Employed,125000,Home,1.2,Approved
+43,30222,Self-Employed,500000,other,5,Not Approved
+42,47868,Employed,450000,Personal,4.5,Not Approved
+39,43565,Employed,250000,other,2.5,Approved
