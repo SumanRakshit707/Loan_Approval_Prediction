@@ -15,6 +15,7 @@ def predict_loan_approval(df):
 
 def main():
     st.title('Loan Approval Prediction')
+    st.write("This Project is Done by Suman Rakshit")
     st.write("Enter your details to get the loan approval prediction:")
 
     # Create input fields for user data
